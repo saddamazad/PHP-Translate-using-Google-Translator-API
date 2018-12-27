@@ -1,0 +1,1 @@
+# PHP-Translate-using-Google-Translator-API
